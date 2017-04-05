@@ -7,3 +7,13 @@ http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js
 ``` javascript
 http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js&ip=218.192.3.42
 ```
+
+### 搜狐接口
+``` javascript
+http://pv.sohu.com/cityjson?ie=utf-8
+```
+
+### 淘宝接口
+``` javascript
+http://ip.taobao.com/service/getIpInfo.php?ip=114.114.114.114
+```
