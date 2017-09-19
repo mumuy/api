@@ -1,4 +1,5 @@
 # API文档
+[返回首页](http://passer-by.com/)
 [ditto:searchbar]
 
 ## 日常生活
