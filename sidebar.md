@@ -1,6 +1,6 @@
 # API文档
-[返回首页](http://passer-by.com/)
 [ditto:searchbar]
+[返回首页](http://passer-by.com/)
 
 ## 日常生活
 - [IP地址](#docs/ip)
