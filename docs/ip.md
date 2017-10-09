@@ -17,3 +17,8 @@ http://pv.sohu.com/cityjson?ie=utf-8
 ``` javascript
 http://ip.taobao.com/service/getIpInfo.php?ip=114.114.114.114
 ```
+
+### 站长之家接口
+``` javascript
+http://ip.chinaz.com/getip.aspx
+```
